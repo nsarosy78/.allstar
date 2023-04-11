@@ -2,3 +2,6 @@ optConfig:
   optOutStrategy: true
   optOutPublicRepos: false
   disableRepoOverride: true
+  optInRepos:
+  - test-testerson
+  - unicorn-machete
